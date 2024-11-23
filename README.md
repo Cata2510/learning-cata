@@ -1,8 +1,3 @@
 # learning-cata
 
-lalala
-
-asdasd
-
-asd
-
+22222
